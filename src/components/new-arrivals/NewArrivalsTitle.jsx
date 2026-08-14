@@ -1,0 +1,61 @@
+export default function NewArrivalsTitle() {
+  return (
+    <section
+      dir="rtl"
+      className="
+        mb-1
+        flex
+        flex-col
+        items-start
+        text-right
+        sm:mb-4
+        md:mb-5
+      "
+    >
+      <h1
+        className="
+          relative
+          text-[18px]
+          font-bold
+          leading-tight
+          text-[#111]
+          sm:text-[28px]
+          md:text-[34px]
+          lg:text-[40px]
+        "
+      >
+        وصل حديثًا
+        <span
+          className="
+            absolute
+            -bottom-2
+            right-0
+            h-[3px]
+            w-[30px]
+            rounded-full
+            bg-[#C91F72]
+            sm:w-[48px]
+            md:h-[4px]
+            md:w-[55px]
+          "
+        />
+      </h1>
+
+      <p
+        className="
+          mt-2
+          text-[10px]
+          font-normal
+          leading-6
+          text-[#777]
+          sm:mt-4
+          sm:text-[15px]
+          md:text-[18px]
+          lg:text-[20px]
+        "
+      >
+        اكتشفي أحدث المنتجات من الماركات المفضلة لديك
+      </p>
+    </section>
+  );
+}
