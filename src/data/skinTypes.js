@@ -1,8 +1,8 @@
-import skin1 from "../assets/Skin/1.png";
-import skin2 from "../assets/Skin/2.png";
-import skin3 from "../assets/Skin/3.png";
-import skin4 from "../assets/Skin/4.png";
-import skin5 from "../assets/Skin/5.png";
+import skin1 from "../assets/skin/1.png";
+import skin2 from "../assets/skin/2.png";
+import skin3 from "../assets/skin/3.png";
+import skin4 from "../assets/skin/4.png";
+import skin5 from "../assets/skin/5.png";
 
 import foundationImg from "../assets/products/foundation.png";
 import mascaraImg from "../assets/products/maskara.png";
