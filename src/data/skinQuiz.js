@@ -1,12 +1,12 @@
-import skin5 from "../assets/Skin/1.png";
-import skin4 from "../assets/Skin/2.png";
-import skin3 from "../assets/Skin/3.png";
-import skin2 from "../assets/Skin/4.png";
-import skin1 from "../assets/Skin/5.png";
+import skin5 from "../assets/skin/1.png";
+import skin4 from "../assets/skin/2.png";
+import skin3 from "../assets/skin/3.png";
+import skin2 from "../assets/skin/4.png";
+import skin1 from "../assets/skin/5.png";
 
-import cool from "../assets/Skin/cool.png";
-import neutral from "../assets/Skin/neutral.png";
-import warm from "../assets/Skin/warm.png";
+import cool from "../assets/skin/cool.png";
+import neutral from "../assets/skin/neutral.png";
+import warm from "../assets/skin/warm.png";
 
 /** Skin tone options (SkinQuiz Q1). */
 export const quizTones = [
