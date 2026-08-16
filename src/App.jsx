@@ -18,7 +18,7 @@ import MakeupGuide from "./pages/MakeupGuide/MakeupGuide";
 import ProductComparison from "./pages/ProductComparison/ProductComparison.jsx";
 import Packages from "./pages/Packages/Packages.jsx";
 import ReturnPolicy from "./pages/ReturnPolicy/ReturnPolicyCard.jsx";
-import Notifications from "./pages/notifications/Notifications.jsx";
+import Notifications from "./pages/Notifications/Notifications.jsx";
 import Looks from "./pages/Looks/Looks";
 import Magazine from "./pages/Magazine/Magazine.jsx";
 import ProductDetails from "./pages/ProductDetails/ProductDetails.jsx";
